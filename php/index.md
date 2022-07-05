@@ -221,6 +221,7 @@ Single-line comments in PHP are written in this way:
 
 ```php
 // single line comment
+# Single line comment
 ```
 
 Multi-line comments are defined in this way:
