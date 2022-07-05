@@ -1654,7 +1654,7 @@ require_once('/var/www/test/file.php');
 
 In modern PHP codebases that use a framework, files are generally loaded automatically so you’ll have less need to use the above functions.
 
-## Useful \***\*constants, functions and variables for filesystem\*\***
+## Useful constants, functions and variables for filesystem
 
 Speaking of paths, PHP offers you several utilities to help you work with paths.
 
